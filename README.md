@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Cryptographic or Distributed systems**
 
-- 📫 How to reach me **jeremykhoois@gmail.com**
+- 📫 How to reach me: **jeremykhoois@gmail.com**
 
 - ⚡ Fun fact **I am learning Korean**
 </p>
