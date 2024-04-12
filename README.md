@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jeremy Khoo</h1>
 <h3 align="center">A passionate Techie</h3>
 
-- 🔭 I’m currently working on **A Static Program Parser and Error Localizer**
+- 🔭 I’m currently working on **A Static Program Parser, Error Localizer and a CLI KanBan**
 
 - 🌱 I’m currently learning **About Software development practices**
 
 - 📝 I regularly write articles on [https://medium.com/@jeremykhoois](https://medium.com/@jeremykhoois)
 
-- 💬 Ask me about **Cryptographic or Distributed systems**
+- 💬 Ask me about **Cryptography or Distributed systems**
 
-- 📫 How to reach me: **jeremykhoois@gmail.com** **https://github.com/jeremykhoo** (is also me)
-
+- 📫 How to reach me: **jeremykhoois@gmail.com**
+  
 - ⚡ Fun fact **I am learning Korean**
 </p>
 
