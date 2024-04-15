@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jeremykhoois](https://medium.com/@jeremykhoois)
 
-- 💬 Ask me about **Cryptography or Distributed systems**
+- 💬 Ask me about **Cryptography**
 
 - 📫 How to reach me: **jeremykhoois@gmail.com**
   
