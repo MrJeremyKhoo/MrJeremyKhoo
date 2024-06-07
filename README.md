@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Khoo</h1>
 <h3 align="center">A passionate Techie</h3>
 
-- 🔭 I’m currently working on **A Static Program Parser, Error Localizer and a CLI KanBan**
+- 🔭 I’m currently working on **Building a learning platform**
 
 - 🌱 I’m currently learning **About Software development practices**
 
