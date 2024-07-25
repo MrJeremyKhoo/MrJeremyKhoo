@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Building a learning platform**
 
-- 🌱 I’m currently learning **About Software development practices**
+- 🌱 I’m currently learning **System Integration**
 
-- 📝 I regularly write articles on [https://medium.com/@jeremykhoois](https://medium.com/@jeremykhoois)
+- 📝 I sometimes write articles on [https://medium.com/@jeremykhoois](https://medium.com/@jeremykhoois)
 
 - 💬 Ask me about **Cryptography**
 
