@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Khoo</h1>
 <h3 align="center">A passionate Techie</h3>
 
-- 🔭 I’m currently working on **Building a learning platform**
+- 🔭 I’m currently working on **Building a website**
 
 - 🌱 I’m currently learning **System Integration**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **jeremykhoois@gmail.com**
   
-- ⚡ Fun fact **I am learning Korean**
+- ⚡ Fun fact **I am learning Japanese**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
