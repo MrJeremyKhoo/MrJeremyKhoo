@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeremy Khoo</h1>
 <h3 align="center">A passionate Techie</h3>
 
-- 🔭 I’m currently working on **Building a website**
+- 🔭 I’m currently working on **KKPETS** (independent dog spa) website
 
-- 🌱 I’m currently learning **System Integration**
+- 🌱 I’m currently learning **Systems Integration**
 
 - 📝 I sometimes write articles on [https://medium.com/@jeremykhoois](https://medium.com/@jeremykhoois)
 
