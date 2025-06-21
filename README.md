@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Khoo</h1>
 <h3 align="center">A passionate Techie</h3>
 
-- 🔭 I’m currently working on **KKPETS** (independent dog spa) website
+- 🔭 I’m currently working on **KKPETS**' (an independent dog spa) website
 
 - 🌱 I’m currently learning **Systems Integration**
 
