@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeremy Khoo</h1>
 <h3 align="center">A passionate Techie</h3>
 
-- 🔭 I’m currently working on **Liberbond**' my company
+- 🔭 I’m currently working on my company
 
-- 🌱 I’m currently learning **Systems Integration**
+- 🌱 I’m currently learning **Databases**
 
 - 📝 I sometimes write articles on [https://medium.com/@jeremykhoois](https://medium.com/@jeremykhoois)
 
